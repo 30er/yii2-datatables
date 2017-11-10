@@ -1,8 +1,8 @@
 {
-    "name": "conquer/datatables",
+    "name": "30er/datatables",
     "description": "Yii2 datatables widget",
     "keywords": ["yii2", "extension", "widget", "datatables"],
-    "homepage": "https://github.com/borodulin/yii2-datatables",
+    "homepage": "https://github.com/30er/yii2-datatables",
     "type": "yii2-extension",
     "license": "MIT",
     "authors": [
